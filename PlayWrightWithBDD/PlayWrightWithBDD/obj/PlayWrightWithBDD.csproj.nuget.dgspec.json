@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "J:\\Github\\Semister-6-Software-Engineering-Maju\\Test Driven Development (AM)\\BDD\\PlayWrightWithBDD\\PlayWrightWithBDD\\PlayWrightWithBDD.csproj": {}
+  },
+  "projects": {
+    "J:\\Github\\Semister-6-Software-Engineering-Maju\\Test Driven Development (AM)\\BDD\\PlayWrightWithBDD\\PlayWrightWithBDD\\PlayWrightWithBDD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\Github\\Semister-6-Software-Engineering-Maju\\Test Driven Development (AM)\\BDD\\PlayWrightWithBDD\\PlayWrightWithBDD\\PlayWrightWithBDD.csproj",
+        "projectName": "PlayWrightWithBDD",
+        "projectPath": "J:\\Github\\Semister-6-Software-Engineering-Maju\\Test Driven Development (AM)\\BDD\\PlayWrightWithBDD\\PlayWrightWithBDD\\PlayWrightWithBDD.csproj",
+        "packagesPath": "C:\\Users\\gamap\\.nuget\\packages\\",
+        "outputPath": "J:\\Github\\Semister-6-Software-Engineering-Maju\\Test Driven Development (AM)\\BDD\\PlayWrightWithBDD\\PlayWrightWithBDD\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "J:\\Programs\\Microsoft\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gamap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "Microsoft.Playwright": {
+              "target": "Package",
+              "version": "[1.22.0, )"
+            },
+            "Microsoft.Playwright.NUnit": {
+              "target": "Package",
+              "version": "[1.22.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.40, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.57, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
